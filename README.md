@@ -75,5 +75,5 @@
 
 ### 시연연상
 [유니티 화면(학교) 시연 영상](https://youtu.be/C4aBej-rPS8?si=wY8DZh-QckW-M57K)
-[하드웨어(차체) + 유니티 시연 영상]([https://youtu.be/C4aBej-rPS8?si=wY8DZh-QckW-M57K](https://youtu.be/wPlckXPBc9g?si=PQyN_PuUHKsyAu0T))
-[하드웨어(방화벽) 시연 영상]([https://youtu.be/C4aBej-rPS8?si=wY8DZh-QckW-M57K](https://youtube.com/shorts/bhHjrcAqr_0?si=n8VL2RI42RUzvWfM))
+[하드웨어(차체) + 유니티 시연 영상](https://youtu.be/wPlckXPBc9g?si=PQyN_PuUHKsyAu0T)
+[하드웨어(방화벽) 시연 영상](https://youtube.com/shorts/bhHjrcAqr_0?si=n8VL2RI42RUzvWfM)
